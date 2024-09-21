@@ -19,3 +19,8 @@ This is the [notebook](technical_docs.ipynb)
 ### Image
 
 ![image](https://github.com/user-attachments/assets/7c5c0ed0-b92a-4b91-9df9-98917df1e1a7)
+
+
+### Example
+
+This is the [notebook](Documentation.ipynb)
